@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4882D601-5D27-44AF-B84C-12849FBDA161}"
+	ProjectSection(SolutionItems) = preProject
+		..\Web Stuff\Chapter 12 - Text.css = ..\Web Stuff\Chapter 12 - Text.css
+		..\Web Stuff\Chapter15 - Layout.css = ..\Web Stuff\Chapter15 - Layout.css
+		..\Web Stuff\Chapter16.html = ..\Web Stuff\Chapter16.html
+		greensmoothie.html = greensmoothie.html
+		home.html = home.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C5ECEF-7746-4F3F-8F42-30997F78E02C}
+	EndGlobalSection
+EndGlobal

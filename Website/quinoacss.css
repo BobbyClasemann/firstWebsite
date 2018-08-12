@@ -1,0 +1,77 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    background-color: #ffffff;
+    text-align: left;
+}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;
+}
+
+p {
+    margin: 5px 4px 4px 5px;
+}
+
+ul {
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    font-style: italic;
+    text-align: left;
+    float: right;
+    text-size-adjust: 75%;
+    width: 300px
+}
+
+
+#instructionsList {
+    text-align: left;
+    width: 500px;
+    list-style-type: lower-roman;
+}
+
+p2, h5 {
+    float: none;
+    text-align: left;
+}
+
+h4.instructions {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+	text-align: left;
+	background-color: #ffffff;
+}
+
+#quinoa-table {
+    float: right;
+	text-align: left;
+	background-color: white;
+    border: solid;
+}
+
+.odd {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #aca8a8;
+    color: black;
+    padding: 4px;
+    margin: 0px;
+    border: thin;
+}
+
+.even {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    padding: 4px;
+    margin: 0px;
+    border: thin;
+}
